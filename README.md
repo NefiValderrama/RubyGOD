@@ -1,0 +1,2 @@
+# RubyGOD
+Ruby learning.
