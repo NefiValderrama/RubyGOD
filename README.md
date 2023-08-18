@@ -1,2 +1,2 @@
-# RubyGOD
+# POO1
 Ruby learning.
