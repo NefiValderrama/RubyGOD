@@ -1,2 +1,2 @@
 # POO1
-Ruby learning.
+Programation learning.
